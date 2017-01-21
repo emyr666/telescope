@@ -12,6 +12,6 @@ http://www.bbastrodesigns.com/6inchTriDob.html
 
 Mirrors
 -------
-Oldham Optics : http://www.oldhamoptical.com/price-list
-Nichol Optica : https://nicholoptical.co.uk/price-list/
-Orion Optics : http://www.orionoptics.co.uk/OPTICS/telescopemirrors.html
+* Oldham Optics : http://www.oldhamoptical.com/price-list
+* Nichol Optica : https://nicholoptical.co.uk/price-list/
+* Orion Optics : http://www.orionoptics.co.uk/OPTICS/telescopemirrors.html
