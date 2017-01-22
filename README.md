@@ -13,6 +13,7 @@ Equatorial Platform
 -------------------
 * http://www.cloudynights.com/topic/35576-making-an-equatorial-platform/
 * http://www.reinervogel.net/index_e.html?/Plattform/Plattform_e.html
+* http://www.equatorial-platforms-uk.co.uk/
 
 Mirrors
 -------
