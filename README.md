@@ -15,6 +15,7 @@ Equatorial Platform
 * http://www.reinervogel.net/index_e.html?/Plattform/Plattform_e.html
 * http://www.equatorial-platforms-uk.co.uk/
 * http://www.reinervogel.net/index_e.html?/Plattform/Plattform_e.html
+* http://www.equatorialplatforms.com/about.our.platforms.shtml
 
 Mirrors
 -------
