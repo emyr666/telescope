@@ -22,3 +22,7 @@ Mirrors
 * Oldham Optics : http://www.oldhamoptical.com/price-list
 * Nichol Optica : https://nicholoptical.co.uk/price-list/
 * Orion Optics : http://www.orionoptics.co.uk/OPTICS/telescopemirrors.html
+
+Telescopes
+----------
+* Rotating upper assembly :http://www.rfroyce.com/10f6tel/construction_pictures.htm
